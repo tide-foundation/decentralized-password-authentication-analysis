@@ -1,0 +1,7 @@
+bin
+obj
+.vs
+.vscode
+data/**
+!data/analysis/.gitignore
+!data/split/.gitignore
