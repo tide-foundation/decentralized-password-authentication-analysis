@@ -9,7 +9,7 @@ namespace Split
         static void Main()
         {
             int numFiles = 4;
-            string accountInput = GetPath("../data/accounts.txt");
+            string accountInput = GetPath("../data/linkedin_all.txt");
             string accountOutput = GetPath("../data/split/accounts-{0}.txt");
 
             var passInput = GetPath("../data/68_linkedin_found_hash_plain.txt");

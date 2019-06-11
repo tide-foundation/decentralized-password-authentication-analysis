@@ -3,5 +3,6 @@ obj
 .vs
 .vscode
 data/**
+!data/analysis/certainty.png
 !data/analysis/.gitignore
 !data/split/.gitignore
