@@ -1,4 +1,4 @@
-# The Hacker Strikes Back
+# Decentralized Password Authentication Analysis
 
 This is the source code of the blog analysis on how to protect the authentication process with passwords in a decentralized solution using the hacked LinkedIn database.
 
